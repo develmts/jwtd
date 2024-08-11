@@ -5,21 +5,22 @@
       "password": "$2b$09$mId6Cv9PBwwJ/HZy1h8cnunjU6m3d18D72MnvGMxm8zGsymSy0vMu",
       "email": "admin@wherever.com",
       "roles": ["admin", "user"],
-      "tokenList": [],
+      "tokenList": []
     },
     {
       "userId": "qa-user",
       "password": "$2b$09$nKv4U8/QHk/QeFkvY93X.Oc04y0x551ydh4.2dlA9LGbG9G1E38yG",
       "email": "qagirl@wherever.com",
       "roles": ["user"],
-      "tokenList": [],
+      "tokenList": []
     },
     {
       "userId": "looser",
       "password": "$2b$09$FtgZds2W.v0P0GRUh7IJKeRiIDgfzi2s2GM1ZgtMk0D4I1aJw/c3m",
       "email": "someguy@wherever.com",
       "roles": ["user"],
-      "tokenList": [],
+      "tokenList": []
     }
   ]
+}
 
