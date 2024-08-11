@@ -1,11 +1,11 @@
 {
-  userDb: [
+  "userDb": [
     {
-      userId: "admin",
-      password: "$2b$09$mId6Cv9PBwwJ/HZy1h8cnunjU6m3d18D72MnvGMxm8zGsymSy0vMu",
-      email: "admin@wherever.com",
-      roles: ["admin", "user"],
-      tokenList: [],
+      "userId": "admin",
+      "password": "$2b$09$mId6Cv9PBwwJ/HZy1h8cnunjU6m3d18D72MnvGMxm8zGsymSy0vMu",
+      "email": "admin@wherever.com",
+      "roles": ["admin", "user"],
+      "tokenList": [],
     },
     {
       userId: "qa-user",
